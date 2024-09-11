@@ -57,6 +57,10 @@ A web application built with Flask that allows users to convert files between di
 
 5. Open a web browser and navigate to `http://127.0.0.1:5000/` to use the application.
 
+## Project Screenshot
+
+   ![alt text](https://github.com/vauzher/Multi-format-File-Converter/blob/main/screenshots/1.png?raw=true)
+   
 ## Usage
 
 1. Select the desired conversion type by clicking on the appropriate tab.
